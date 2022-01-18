@@ -59,12 +59,6 @@
     flex-flow: row nowrap;
     padding: 10%;
 
-    &__cover,
-    &__details {
-      width: 50%;
-      max-width: 495px;
-    }
-
     &__details {
       text-align: left;
     }
