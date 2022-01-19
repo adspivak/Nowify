@@ -17,7 +17,6 @@
   &__details {
     padding: var(--spacing-m);
     text-align: center;
-    width: 100%;
   }
 
   &__cover {
@@ -43,7 +42,7 @@
   }
 
   &--active {
-    align-items: center;
+    align-items: flex-start;
     justify-content: flex-start;
   }
 
