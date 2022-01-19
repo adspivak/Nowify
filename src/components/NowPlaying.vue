@@ -18,7 +18,7 @@
       </div>
     </div>
     <div v-else class="now-playing" :class="getNowPlayingClass()">
-      <h1 class="now-playing__idle-heading">Select Raspberry Pi as Spotify device to play music.</h1>
+      <h1 class="now-playing__idle-heading"></h1>
     </div>
   </div>
 </template>
